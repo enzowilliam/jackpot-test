@@ -1,0 +1,80 @@
+{
+  "gamePopup": {
+    "title": "Jogo de caça niquel",
+    "subtitle":"o melhor jogo de caça niquel",
+    "fields": [
+      {
+        "label": "E-mail:",
+        "placeholder": "Digite seu e-mail",
+        "type": "email",
+        "name": "email"
+      },
+      {
+        "label": "Nome:",
+        "placeholder": "Digite seu nome",
+        "type": "text",
+        "name": "name"
+      },
+      {
+        "label": "Celular:",
+        "placeholder": "Digite seu número de celular",
+        "type": "text",
+        "name": "phone"
+      },
+      {
+        "label": "Gênero:",
+        "type": "select",
+        "name": "gender",
+        "options": [
+          {"value": "masculino", "label": "Masculino"},
+          {"value": "feminino", "label": "Feminino"}
+        ]
+      },
+      {
+        "label": "Consentimento para coleta de dados",
+        "type": "checkbox",
+        "name": "consent"
+      }
+    ],
+    "submitButton": "Enviar"
+  },
+  "videoPopup": {
+    "title": "Tutorial do jogo",
+    "subtitle":"assista ao tutorial antes de jogar",
+    "fields": [
+      {
+        "label": "E-mail:",
+        "placeholder": "Digite seu e-mail",
+        "type": "email",
+        "name": "email"
+      },
+      {
+        "label": "Nome:",
+        "placeholder": "Digite seu nome",
+        "type": "text",
+        "name": "name"
+      },
+      {
+        "label": "Celular:",
+        "placeholder": "Digite seu número de celular",
+        "type": "text",
+        "name": "phone"
+      },
+      {
+        "label": "Gênero:",
+        "type": "select",
+        "name": "gender",
+        "options": [
+          {"value": "masculino", "label": "Masculino"},
+          {"value": "feminino", "label": "Feminino"}
+        ]
+      },
+      {
+        "label": "Consentimento para coleta de dados",
+        "type": "checkbox",
+        "name": "consent"
+      }
+    ],
+    "submitButton": "Enviar"
+  }
+}
