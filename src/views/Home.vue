@@ -115,14 +115,14 @@ export default {
 }
 
 h1 {
-  margin-left: 1rem;
+  padding-top: 2rem;
+  padding-left: 1rem;
   color: #ffffff;
 }
 
 .content {
   display: flex;
   justify-content: center;
-  align-items: center;
 }
 
 .options {
